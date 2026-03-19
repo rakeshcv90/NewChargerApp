@@ -1,4 +1,4 @@
-package com.charger
+package com.chargetime
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
