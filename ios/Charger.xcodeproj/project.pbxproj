@@ -9,9 +9,14 @@
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-Charger.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-Charger.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		17711C43EB754312B1264FBB /* Syne-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2150EF3F442E4592A07EA208 /* Syne-ExtraBold.ttf */; };
 		5161E7A72308DBDE9C849402 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
+		791AD16B0F244C61B47599C5 /* Syne-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A465BE522F6347A0B2519145 /* Syne-Bold.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A1A91A76959848B7A50DF63B /* Syne-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 60C3E732F8C14D91B29FE35D /* Syne-Medium.ttf */; };
+		A94E64D9AEB54DAA9F2C3272 /* Syne-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2A01D642AF634230A35EF285 /* Syne-SemiBold.ttf */; };
+		D0CEB022FEEF4B869397E967 /* Syne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DEE36D3D5C3B4946B7D5982F /* Syne-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,11 +24,16 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Charger/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Charger/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = Charger/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		2150EF3F442E4592A07EA208 /* Syne-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Syne-ExtraBold.ttf"; path = "../assets/fonts/Syne-ExtraBold.ttf"; sourceTree = "<group>"; };
+		2A01D642AF634230A35EF285 /* Syne-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Syne-SemiBold.ttf"; path = "../assets/fonts/Syne-SemiBold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-Charger.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Charger.debug.xcconfig"; path = "Target Support Files/Pods-Charger/Pods-Charger.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-Charger.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Charger.release.xcconfig"; path = "Target Support Files/Pods-Charger/Pods-Charger.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Charger.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Charger.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		60C3E732F8C14D91B29FE35D /* Syne-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Syne-Medium.ttf"; path = "../assets/fonts/Syne-Medium.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = Charger/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Charger/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A465BE522F6347A0B2519145 /* Syne-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Syne-Bold.ttf"; path = "../assets/fonts/Syne-Bold.ttf"; sourceTree = "<group>"; };
+		DEE36D3D5C3B4946B7D5982F /* Syne-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Syne-Regular.ttf"; path = "../assets/fonts/Syne-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -60,6 +70,19 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		2E468BDF207746B78B17946C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DEE36D3D5C3B4946B7D5982F /* Syne-Regular.ttf */,
+				2150EF3F442E4592A07EA208 /* Syne-ExtraBold.ttf */,
+				A465BE522F6347A0B2519145 /* Syne-Bold.ttf */,
+				2A01D642AF634230A35EF285 /* Syne-SemiBold.ttf */,
+				60C3E732F8C14D91B29FE35D /* Syne-Medium.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -75,6 +98,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				2E468BDF207746B78B17946C /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -161,6 +185,11 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				5161E7A72308DBDE9C849402 /* PrivacyInfo.xcprivacy in Resources */,
+				D0CEB022FEEF4B869397E967 /* Syne-Regular.ttf in Resources */,
+				17711C43EB754312B1264FBB /* Syne-ExtraBold.ttf in Resources */,
+				791AD16B0F244C61B47599C5 /* Syne-Bold.ttf in Resources */,
+				A94E64D9AEB54DAA9F2C3272 /* Syne-SemiBold.ttf in Resources */,
+				A1A91A76959848B7A50DF63B /* Syne-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +289,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L47238H5LK;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Charger/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
@@ -290,6 +320,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L47238H5LK;
 				INFOPLIST_FILE = Charger/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (

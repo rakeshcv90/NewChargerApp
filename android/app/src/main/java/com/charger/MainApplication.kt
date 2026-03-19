@@ -1,4 +1,4 @@
-package com.charger
+package com.chargetime
 
 import android.app.Application
 import com.facebook.react.PackageList
